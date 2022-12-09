@@ -1,1 +1,1 @@
-An attempt to avoid https://github.com/gicentre/litvis/issues/49 in my coursework.
+Here are the data files for my IN3030 coursework. They are stored here, in a public repository, in order to avoid CORS issue (https://github.com/gicentre/litvis/issues/49).
